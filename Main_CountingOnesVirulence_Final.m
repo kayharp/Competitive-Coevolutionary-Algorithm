@@ -2,7 +2,6 @@
 %Counting Ones Domain
 %Simple Coevolutionary Algorithm
 %Kristina Harper
-%Artificial Life
 
 
 clear;
