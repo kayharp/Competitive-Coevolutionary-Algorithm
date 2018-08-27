@@ -1,8 +1,7 @@
 %Extension - Binary Domain
 %Simple Coevolutionary Algorithm
 %Kristina Harper
-%Artificial Life
-%Candidate No 178621
+
 
 clear;
 NoRuns = 10;
